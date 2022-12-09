@@ -1,0 +1,50 @@
+body
+{background-size:cover;
+color:black;}
+
+.heading
+{
+    font-family:'Amatic SC', cursive;
+    font-size:50px;
+    margin:40px;
+}
+
+.note
+{
+    font-size:30px;
+    color:black;
+    
+}
+
+
+
+.btn
+{
+    background-color: white;
+    color:black;
+    width:450px;
+    height:50px;
+    border-radius:20px;
+    text-align: center;
+    font-size:30px;
+    font-family:'Amatic SC', cursive;
+}
+
+.header_div
+{
+    background:pink;
+    float: none;
+    border-radius: 15px;
+    box-shadow:10px 10px 10px grey;
+    
+}
+
+canvas
+{
+    margin-top:275px;
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px grey;
+    background-color: white;
+}
+
